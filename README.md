@@ -1,2 +1,0 @@
-# Siyan Dong
-hello world
